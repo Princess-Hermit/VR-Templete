@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Templete", "Assembly-CSharp-firstpass.csproj", "{BCCF4D5E-365B-110B-9C9B-DE1F49C20652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Templete", "Assembly-CSharp.csproj", "{8FA987EC-9C37-13CA-C2B8-ABB118CB3B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Templete", "Assembly-CSharp-Editor.csproj", "{B8EE60A0-97C2-6CD5-52BF-02960C28171E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCF4D5E-365B-110B-9C9B-DE1F49C20652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCF4D5E-365B-110B-9C9B-DE1F49C20652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCF4D5E-365B-110B-9C9B-DE1F49C20652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCF4D5E-365B-110B-9C9B-DE1F49C20652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA987EC-9C37-13CA-C2B8-ABB118CB3B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA987EC-9C37-13CA-C2B8-ABB118CB3B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA987EC-9C37-13CA-C2B8-ABB118CB3B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA987EC-9C37-13CA-C2B8-ABB118CB3B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EE60A0-97C2-6CD5-52BF-02960C28171E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EE60A0-97C2-6CD5-52BF-02960C28171E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EE60A0-97C2-6CD5-52BF-02960C28171E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EE60A0-97C2-6CD5-52BF-02960C28171E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
